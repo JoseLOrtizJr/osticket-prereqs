@@ -1,4 +1,3 @@
-Under Construction 
 
 
 
@@ -94,8 +93,16 @@ In this guide, we'll install osTicket in a virtual environment using VirtualBox.
     - <img src="https://i.imgur.com/4QxRqcT.png" height="60%" width="60%" alt="osTicket"/>
 
     - Now you should be able to access the osTicket installer page. Follow the on-screen instructions to complete the setup. Remember to write down the username and email you use to signup and use `Password1` as default password.
+   
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/osticket.png">
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/osticket1.png">
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/osticket2.png">
 
-    - Install HeidiSQL and create a new database called `osTicket`. We will be using our credentials from MySQL, root and password `Password1`.
+    - Install HeidiSQL and create a new database called `osTicket`. We will be using our credentials from MySQL in HeidiSQL and in the database settings, root and password `Password1`.
    
     - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/heidisql.png">
+
+    - Congratulations! You just installed osTicket.
+   
+    - 
     
