@@ -104,5 +104,11 @@ In this guide, we'll install osTicket in a virtual environment using VirtualBox.
 
     - Congratulations! You just installed osTicket.
    
-    - 
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/congrats.png">
+    
+    
+    ## Conclusion
+
+    This is a complicated lab and sometimes students, myself included, have had things break thats why I prefer using VirtualBox over Azure since you can load a snapshot and not reinstall the virtual machine from scratch. Another issue is problems/slow downloading speed of the installation files which we can just drag and drop with VirtualBox. 
+
     
