@@ -106,11 +106,14 @@ In this guide, we'll install osTicket in a virtual environment using VirtualBox.
    
     - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/congrats.png">
     
-    - Now all we have to do is post op cleanup by deleting the `setup` folder and changing permissions on `ost-config.php` back to read & execute and read only and we are done.
+    - Finally, perform post-installation cleanup by deleting the `setup` folder and changing the permissions on `ost-config.php` to read & execute and read-only.
+   
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/setup.png">
+    - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/ostconfig.png">
     
     
     ## Conclusion
 
-    This is a complicated lab and sometimes students, myself included, have had things break thats why I prefer using VirtualBox over Azure since you can load a snapshot and not reinstall the virtual machine from scratch. Another issue is problems/slow downloading speed of the installation files which we can just drag and drop with VirtualBox. 
+This lab can be challenging, and issues may arise during the setup. Using VirtualBox is preferable over Azure because you can create and load snapshots, allowing you to quickly restore your environment without needing to reinstall the virtual machine. Additionally, VirtualBox's drag-and-drop feature helps overcome slow download speeds by easily transferring installation files to the VM.
 
     
