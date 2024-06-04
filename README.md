@@ -106,6 +106,8 @@ In this guide, we'll install osTicket in a virtual environment using VirtualBox.
    
     - <img src="https://github.com/JoseLOrtizJr/osticket-prereqs/blob/main/congrats.png">
     
+    - Now all we have to do is post op cleanup by deleting the `setup` folder and changing permissions on `ost-config.php` back to read & execute and read only and we are done.
+    
     
     ## Conclusion
 
