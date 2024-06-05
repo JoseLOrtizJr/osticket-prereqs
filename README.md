@@ -114,6 +114,5 @@ In this guide, we'll install osTicket in a virtual environment using VirtualBox.
     
     ## Conclusion
 
-This lab can be challenging, and issues may arise during the setup. Using VirtualBox is preferable over Azure because you can create and load snapshots, allowing you to quickly restore your environment without needing to reinstall the virtual machine. Additionally, VirtualBox's drag-and-drop feature helps overcome slow download speeds by easily transferring installation files to the VM.
-
+This lab can be challenging, and issues may arise during the setup. Using VirtualBox is preferable over Azure because you can create and load snapshots, allowing you to quickly restore your environment without needing to reinstall the virtual machine. Additionally, VirtualBox's drag-and-drop feature helps overcome slow download speeds by easily transferring installation files to the VM. Finally, there are no fees associated with using VirtualBox compared to cloud services.
     
